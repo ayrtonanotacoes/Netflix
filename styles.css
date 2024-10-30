@@ -16,6 +16,10 @@ body {
     margin: 0;
 }
 
+a {
+    text-decoration:none;
+}
+
 .container {
     margin-top: 165px;
     text-align: center;
